@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hakan-kemal/ViteProject.git"
+    "url": "git+https://github.com/hakan-kemal/vite-project.git"
   },
-  "author": "marcel@q42.nl",
+  "author": "hakan@q42.nl",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/hakan-kemal/ViteProject/issues"
+    "url": "https://github.com/hakan-kemal/vite-project/issues"
   },
-  "homepage": "https://github.com/hakan-kemal/ViteProject/issues#readme",
+  "homepage": "https://github.com/hakan-kemal/vite-project/issues#readme",
   "dependencies": {
     "@vimeo/player": "^2.18.0",
     "svelte": "^3.55.1"
